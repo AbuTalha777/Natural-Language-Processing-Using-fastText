@@ -3,13 +3,16 @@ Natural language Processing Using fastText
 What is fastText?
 It is a library for efficient learning of word representations and sentence classification.
 
+
 Implementation of fastText:
 
-1. Instructions from the following website was considered while developing this project;
-  https://fasttext.cc/docs/en/supervised-tutorial.html
-  
-2. Command Line implementation on amazon ubuntu virtual machine with the default dataset
-3. Labelled data is classified using machine learning.
+1. Pre-requisites:
+  a. Intall a VM to run Ubuntu
+  b. Install a C compiler and make (a command for compiling code) in your VM.
 
+2. Follow the instructions from the website below to run fastText in your VM:
+  https://fasttext.cc/docs/en/supervised-tutorial.html
+
+3. Once step 2 succesfully runs, try with the same procedure with the new datasets provided in this GitHub repository.
 
 
