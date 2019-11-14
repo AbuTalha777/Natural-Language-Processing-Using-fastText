@@ -1,1 +1,3 @@
 The python file was used to modify the original movies data to use in fastText.
+The csv file is the raw dataset as collected from teh website.
+The .txt file is the output file from python. This file was uploaded to fastText.
