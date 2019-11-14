@@ -1,1 +1,15 @@
 Natural language Processing Using fastText
+
+What is fastText?
+It is a library for efficient learning of word representations and sentence classification.
+
+Implementation of fastText:
+
+1. Instructions from the following website was considered while developing this project;
+  https://fasttext.cc/docs/en/supervised-tutorial.html
+  
+2. Command Line implementation on amazon ubuntu virtual machine with the default dataset
+3. Labelled data is classified using machine learning.
+
+
+
