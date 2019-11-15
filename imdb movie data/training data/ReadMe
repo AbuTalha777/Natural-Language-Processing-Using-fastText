@@ -1,0 +1,2 @@
+movie_metadat.csv is the data set collected from kaggle(https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset)
+movie_train.txt is the file edited to fit the fastText model using the given python code
